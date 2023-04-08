@@ -1,6 +1,6 @@
-<h1 align="center"> Aprendendo Redes Neurais e Algoritmos Genéticos </h1>
-<h2 align="center"> 🚀 Uma viagem pelo meu aprendizado em inteligência artificial 🚀 </h2>
-<h3 align="center"> Barbara da Paixão Perez Rodrigues </h3>
+<h2 align="center"> Aprendendo Redes Neurais e Algoritmos Genéticos </h2>
+<h3 align="center"> 🚀 Uma viagem pelo meu aprendizado em inteligência artificial 🚀 </h3>
+<p align="center"> Barbara da Paixão Perez Rodrigues </p>
 
 ![capa_git_rnag](https://user-images.githubusercontent.com/107041797/230733424-f7e8e9d1-ea0c-4b41-8660-1373881cd842.png)
 
