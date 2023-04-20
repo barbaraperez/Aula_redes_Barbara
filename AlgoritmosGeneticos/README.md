@@ -42,5 +42,9 @@ Algoritmos genéticos são um conjunto de códigos matemáticos feitos com base 
 🚠<a href="https://github.com/barbaraperez/Aula_redes_Barbara/blob/ccaba8e536788f31a2ab642417ca348d45006431/AlgoritmosGeneticos/experimento%20A.06%20-%20o%20caixeiro%20viajante.ipynb"> Experimento A.06 </a> - Caixeiro viajante - Nesse experimento utilizamos os algoritmos genéticos para resolver um problema clássico da matemática, um viajante que deseja passar por um certo número de cidades sem passar por uma mesma duas vezes seguidas e caminhando pela menor distância possível.
 </p>
 
+<p align="justify">
+📈<a href="https://github.com/barbaraperez/Aula_redes_Barbara/blob/ce3284241e71e56f38e8215fbe0125e18f6026ea/AlgoritmosGeneticos/experimento%20A.07%20-%20aplicando%20restricoes.ipynb"> Experimento A.07 </a> - Aplicando restrições na busca - Neste experimento resolvemos o problema de buscas de restrições, sendo que para ilustrar esse problema utilizamos o problema da mochila. Nesse problema temos uma mochila que suporta um certo peso e dentro dela deve ter uma combinação de objetos dentro dos possíveis que resultem na maior soma dos preços dos itens.
+</p>
+
 
 
